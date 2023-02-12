@@ -10,7 +10,7 @@ This repository contains the work I complete during my Level 4 Software Developm
 6. Further Arrays
 7. Javascript Exceptions
 
-Further JS	
+## Further JS	
 1. Numbers, Dates, Times
 2. Strings
 3. Types and Coercion
